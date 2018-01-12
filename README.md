@@ -41,7 +41,46 @@ SMS Notification
 
 ![data](https://user-images.githubusercontent.com/35349226/34854017-0bfba464-f705-11e7-95e3-1a866f55cc07.png)
 
+![image](https://user-images.githubusercontent.com/35349226/34854062-5b0b6328-f705-11e7-9e1c-92913b7d920e.png)
+
+
 ### Data Struggles
+Irrelevant Columns – Patient & Appointment ID
+
+Date & Time Stamps – Always an issue!!
+
+Outliers in Age – 0, negative and above 100
+
+Junk Rows – Handicap Row values
+
+Appointment & Schedule data Difference- Is it Relevant?
+
+Bias Data – 80:20 Show : No-Show
+
+Balancing the data
+
+### Clean it UP!!!
+Remove Patient ID, Appointment ID columns
+
+Cleaning up date columns
+
+Extracting date month and year from appointment and schedule day columns
+
+Calculate difference between Scheduled and Appointment dates
+
+Creating Balanced Data
+
+removing negative values and values >1
+
+Convert columns to factors
+
+## Real World Data Set is not your friend!
+
+Bias in Distribution
+85,000 v/s 21,000 Rows
+
+![image](https://user-images.githubusercontent.com/35349226/34854140-d52365c0-f705-11e7-9ac1-cfe6c16773c9.png)
+
 
 
 
