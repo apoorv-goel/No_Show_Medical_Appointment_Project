@@ -41,7 +41,7 @@ SMS Notification
 
 ![data](https://user-images.githubusercontent.com/35349226/34854017-0bfba464-f705-11e7-95e3-1a866f55cc07.png)
 
-![image](https://user-images.githubusercontent.com/35349226/34854062-5b0b6328-f705-11e7-9e1c-92913b7d920e.png)
+![image](https://user-images.githubusercontent.com/35349226/34854194-2a97061a-f706-11e7-819e-053d60be1cb0.png)
 
 
 ### Data Struggles
