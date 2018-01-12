@@ -39,6 +39,10 @@ Medical Insurance
 
 SMS Notification
 
+![data](https://user-images.githubusercontent.com/35349226/34854017-0bfba464-f705-11e7-95e3-1a866f55cc07.png)
+
 ### Data Struggles
+
+
 
             
