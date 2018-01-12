@@ -13,14 +13,19 @@ A recent survey concluded that as many as 42% of patients skip their appointment
 ## “An appointment missed by you is an appointment missed by two.”
 
 A missed appointment is more than just a missed opportunity. When a patient doesn’t show up on time, it also affects people who could’ve been treated instead of that patient.
+
 Visitors, doctors, and even hospital administration…they’re all affected.
 
 ## Finding Reasons
 ### Different Surveys using different datasets came up with some influencing factors :
 Financial Reasons
+
 Discouraged by long Hospital wait time 
+
 Poor Medical Literacy
+
 Anxiety
+
 Transportation
 
 
